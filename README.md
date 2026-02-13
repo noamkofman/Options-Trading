@@ -1,4 +1,4 @@
-# SPY Options Decision Backtester
+# SPY Options Algorithom
 
 A simple Python project that compares a Black-Scholes model price to market option prices, decides whether to **Buy** or **Don’t Buy**, and evaluates whether that decision was correct using realized PnL at expiration.
 was 98% correct made $1,000 +
